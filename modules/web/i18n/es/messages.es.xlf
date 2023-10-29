@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="1045499538393271132" datatype="html">
         <source>Auto-refresh (every <x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> s.)</source>
-        <target>Refrescar auto (cada <x id="INTERPOLATION" equiv-text="{{refreshInterval}}"/> s.)</target>
+        <target>Refrescar automáticamente (cada <x id="INTERPOLATION" equiv-text="{{refreshInterval}}"/> s.)</target>
       </trans-unit>
       <trans-unit id="1046894941566596460" datatype="html">
         <source>Resource Information</source>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="1134765132854526890" datatype="html">
         <source>Service Name </source>
-        <target state="new">Nombre del Servicio</target>
+        <target state="new">Nombre de Servicio</target>
       </trans-unit>
       <trans-unit id="1138159535667068803" datatype="html">
         <source>Memory requirement (MiB)</source>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="1268395641466243700" datatype="html">
         <source> Every Service Account has a Secret with valid Bearer Token that can be used to log in to Dashboard. To find out more about how to configure and use Bearer Tokens, please refer to the <x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#2\uFFFD&quot;"/>Authentication<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;\uFFFD/#2\uFFFD&quot;"/> section. </source>
-        <target state="new">Cada cuenta de servicio tiene un Secret asociado a un Bearer Token que puede usarse para iniciar sesión en el tablero. Para saber más sobre cómo configurar y utilizar Bearer Tokens, referirse a la sección <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Authentificación<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
+        <target state="new">Cada cuenta de servicio tiene un Secret asociado a un Bearer Token que puede usarse para iniciar sesión en el tablero. Para saber más sobre cómo configurar y utilizar Bearer Tokens, referirse a la sección <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Autenticación<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
       </trans-unit>
       <trans-unit id="1292699022746959928" datatype="html">
         <source>Non-resource URL</source>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="1321877744367304738" datatype="html">
         <source>Image: </source>
-        <target state="new">Imagen :</target>
+        <target state="new">Imagen: </target>
       </trans-unit>
       <trans-unit id="1328651869817330586" datatype="html">
         <source>Mount Option(s)</source>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="1429641498515055959" datatype="html">
         <source>Revision history limit</source>
-        <target>Limite de históricos de revisión</target>
+        <target>Límite de históricos de revisión</target>
       </trans-unit>
       <trans-unit id="1431416938026210429" datatype="html">
         <source>Password</source>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="1622528103709985950" datatype="html">
         <source> Local settings are stored in the browser cookies, so they are not synchronized between multiple devices. Changes are applied automatically on every change. </source>
-        <target state="new">Los ajustes locales se guardan en las cookies del navegador, así que no se sincronizan entre multiples dispositivos. Los cambios se aplican en cada cambio.</target>
+        <target state="new">Los ajustes locales se guardan en las cookies del navegador, así que no se sincronizan entre múltiples dispositivos. Los cambios se aplican en cada cambio.</target>
       </trans-unit>
       <trans-unit id="1631799239961659924" datatype="html">
         <source>Volume Attributes</source>
@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit id="1761780531172486555" datatype="html">
         <source>Available: </source>
-        <target state="new">Disponibles :</target>
+        <target state="new">Disponibles: </target>
       </trans-unit>
       <trans-unit id="1763461605200938061" datatype="html">
         <source>Desired replicas</source>
@@ -268,11 +268,11 @@
       </trans-unit>
       <trans-unit id="1781490455950079869" datatype="html">
         <source><x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#10\uFFFD&quot;"/>Community<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;\uFFFD/#10\uFFFD&quot;"/></source>
-        <target state="new"><x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#10\uFFFD&quot;"/>Community<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;\uFFFD/#10\uFFFD&quot;"/></target>
+        <target state="new"><x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#10\uFFFD&quot;"/>Comunidad<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;\uFFFD/#10\uFFFD&quot;"/></target>
       </trans-unit>
       <trans-unit id="1791198005341902530" datatype="html">
         <source> Deploy </source>
-        <target state="new">Desplegar</target>
+        <target state="new"> Desplegar </target>
       </trans-unit>
       <trans-unit id="1813894172148248223" datatype="html">
         <source>Ingress Classes </source>
@@ -284,11 +284,11 @@
       </trans-unit>
       <trans-unit id="1832995043073719610" datatype="html">
         <source>A secret with the specified name will be added to the cluster in the namespace.</source>
-        <target>Un secret con el nombre especificado será añadido al clúster en el espacio de nombre.</target>
+        <target>Un Secret con el nombre especificado será añadido al clúster en el espacio de nombre.</target>
       </trans-unit>
       <trans-unit id="1850293262697508820" datatype="html">
         <source>Revision history limit: </source>
-        <target state="new">Limite de históricos de revisión :</target>
+        <target state="new">Límite de históricos de revisión :</target>
       </trans-unit>
       <trans-unit id="1853314835104660335" datatype="html">
         <source>The new namespace will be added to the cluster.</source>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="1861657886309326" datatype="html">
         <source>Events </source>
-        <target state="new">Eventos</target>
+        <target state="new">Eventos </target>
       </trans-unit>
       <trans-unit id="187187500641108332" datatype="html">
         <source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="2081098100751596052" datatype="html">
         <source>iSCSI target lun number</source>
-        <target state="new">iSCSI target lun number</target>
+        <target state="new">Número de iSCSI target lun</target>
       </trans-unit>
       <trans-unit id="2083766050425503902" datatype="html">
         <source> Application name must start with a lowercase letter and contain only lowercase letters, numbers, and &apos;-&apos; between words. </source>
@@ -376,11 +376,11 @@
       </trans-unit>
       <trans-unit id="2122768143452494504" datatype="html">
         <source>Unsupported graph type <x id="PH" equiv-text="this.graphType"/>.</source>
-        <target state="new">Unsupported graph type <x id="PH" equiv-text="this.graphType"/>.</target>
+        <target state="new">Tipo de grafo <x id="PH" equiv-text="this.graphType"/> no soportado.</target>
       </trans-unit>
       <trans-unit id="2127150478980536520" datatype="html">
         <source>Max Replicas</source>
-        <target>Max réplicas</target>
+        <target>Máx. de réplicas</target>
       </trans-unit>
       <trans-unit id="21275452006765587" datatype="html">
         <source>Commands</source>
@@ -392,7 +392,7 @@
       </trans-unit>
       <trans-unit id="2131524838680811873" datatype="html">
         <source>You can <x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#6\uFFFD&quot;"/>deploy a containerized app<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;[\uFFFD/#6\uFFFD|\uFFFD/#7\uFFFD]&quot;"/>, select other namespace or <x id="START_LINK_1" equiv-text="&quot;\uFFFD#7\uFFFD&quot;"/>check the Dashboard Docs <x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&quot;\uFFFD#8\uFFFD&quot;"/>open_in_new<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&quot;\uFFFD/#8\uFFFD&quot;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;[\uFFFD/#6\uFFFD|\uFFFD/#7\uFFFD]&quot;"/> to learn more.</source>
-        <target state="new">Puedes <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>desplegar una aplicación contenerizada<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, selecciona otra espacio de nombre select o <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>haz el tour guiado del Dashboard <x id="START_TAG_MAT-ICON" ctype="x-mat-icon" equiv-text="&lt;mat-icon&gt;"/>open_in_new<x id="CLOSE_TAG_MAT-ICON" ctype="x-mat-icon" equiv-text="&lt;/mat-icon&gt;"/> <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> para aprender más.</target>
+        <target state="new">Puedes <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>desplegar una aplicación contenerizada<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, selecciona otra espacio de nombre o <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>revisa la documentación del Dashboard <x id="START_TAG_MAT-ICON" ctype="x-mat-icon" equiv-text="&lt;mat-icon&gt;"/>open_in_new<x id="CLOSE_TAG_MAT-ICON" ctype="x-mat-icon" equiv-text="&lt;/mat-icon&gt;"/> <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> para aprender más.</target>
       </trans-unit>
       <trans-unit id="2132886845235480834" datatype="html">
         <source>Resource type</source>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="217048540478746172" datatype="html">
         <source> Target port must be an integer. </source>
-        <target state="new">El puerto objetivo debe ser un entero.</target>
+        <target state="new">El puerto objetivo debe ser un número entero.</target>
       </trans-unit>
       <trans-unit id="2176659033176029418" datatype="html">
         <source>Key</source>
@@ -424,7 +424,7 @@
       </trans-unit>
       <trans-unit id="21860712120581731" datatype="html">
         <source>Updated: </source>
-        <target state="new">Actualizado :</target>
+        <target state="new">Actualizado: </target>
       </trans-unit>
       <trans-unit id="2188854519574316630" datatype="html">
         <source>Server</source>
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="222595489358095649" datatype="html">
         <source> Kubernetes Dashboard v<x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> © <x id="INTERPOLATION_1" equiv-text="&quot;\uFFFD1\uFFFD&quot;"/> The Kubernetes Authors </source>
-        <target state="new"> Kubernetes Dashboard v<x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> © <x id="INTERPOLATION_1" equiv-text="&quot;\uFFFD1\uFFFD&quot;"/> The Kubernetes Authors </target>
+        <target state="new"> Kubernetes Dashboard v<x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> © <x id="INTERPOLATION_1" equiv-text="&quot;\uFFFD1\uFFFD&quot;"/> Los autores de Kubernetes </target>
       </trans-unit>
       <trans-unit id="2235593604907350097" datatype="html">
         <source>Resource Names</source>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="2317196056953748991" datatype="html">
         <source>Old Replica Sets</source>
-        <target>Antiguo Replica Sets</target>
+        <target>Replica Sets antiguas</target>
       </trans-unit>
       <trans-unit id="2320200316076079587" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&quot;[\uFFFD#5\uFFFD|\uFFFD#8\uFFFD]&quot;"/>Are you sure you want to delete <x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD#6\uFFFD|\uFFFD#2:1\uFFFD]&quot;"/><x id="INTERPOLATION_1" equiv-text="&quot;\uFFFD1\uFFFD&quot;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD/#6\uFFFD|\uFFFD/#2:1\uFFFD]&quot;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&quot;[\uFFFD/#5\uFFFD|\uFFFD/#1:1\uFFFD\uFFFD/*7:1\uFFFD|\uFFFD/#8\uFFFD]&quot;"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&quot;\uFFFD*7:1\uFFFD\uFFFD#1:1\uFFFD&quot;"/> in namespace <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD#6\uFFFD|\uFFFD#2:1\uFFFD]&quot;"/><x id="INTERPOLATION_2" equiv-text="&quot;\uFFFD0:1\uFFFD&quot;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD/#6\uFFFD|\uFFFD/#2:1\uFFFD]&quot;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&quot;[\uFFFD/#5\uFFFD|\uFFFD/#1:1\uFFFD\uFFFD/*7:1\uFFFD|\uFFFD/#8\uFFFD]&quot;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&quot;[\uFFFD#5\uFFFD|\uFFFD#8\uFFFD]&quot;"/>?<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&quot;[\uFFFD/#5\uFFFD|\uFFFD/#1:1\uFFFD\uFFFD/*7:1\uFFFD|\uFFFD/#8\uFFFD]&quot;"/></source>
@@ -516,7 +516,7 @@
       </trans-unit>
       <trans-unit id="2411065404041685586" datatype="html">
         <source>Path Type </source>
-        <target state="new">Tipo de ruta</target>
+        <target state="new">Tipo de ruta </target>
       </trans-unit>
       <trans-unit id="2417328504220076358" datatype="html">
         <source>Settings have changed since last reload</source>
@@ -612,7 +612,7 @@
       </trans-unit>
       <trans-unit id="2833767909565048391" datatype="html">
         <source> Do you want to stay on current page and change namespace from <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD#7\uFFFD|\uFFFD#8\uFFFD]&quot;"/><x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD/#7\uFFFD|\uFFFD/#8\uFFFD]&quot;"/> to <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD#7\uFFFD|\uFFFD#8\uFFFD]&quot;"/><x id="INTERPOLATION_1" equiv-text="&quot;\uFFFD1\uFFFD&quot;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&quot;[\uFFFD/#7\uFFFD|\uFFFD/#8\uFFFD]&quot;"/>? </source>
-        <target state="new">¿Deseas permanecer en la página en curso y modificar el nombre de <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="INTERPOLATION" equiv-text="{{namespace}}"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> a <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="INTERPOLATION_1" equiv-text="{{newNamespace}}"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> ?</target>
+        <target state="new">¿Deseas permanecer en la página en curso y modificar el nombre de <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="INTERPOLATION" equiv-text="{{namespace}}"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> a <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="INTERPOLATION_1" equiv-text="{{newNamespace}}"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> ? </target>
       </trans-unit>
       <trans-unit id="284876663522831141" datatype="html">
         <source>Source Type</source>
@@ -636,7 +636,7 @@
       </trans-unit>
       <trans-unit id="2933331719200534418" datatype="html">
         <source><x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#7\uFFFD&quot;"/>Documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;\uFFFD/#7\uFFFD&quot;"/></source>
-        <target state="new"><x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#7\uFFFD&quot;"/>Documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;\uFFFD/#7\uFFFD&quot;"/></target>
+        <target state="new"><x id="START_LINK" ctype="x-a" equiv-text="&quot;\uFFFD#7\uFFFD&quot;"/>Documentación<x id="CLOSE_LINK" ctype="x-a" equiv-text="&quot;\uFFFD/#7\uFFFD&quot;"/></target>
       </trans-unit>
       <trans-unit id="2944102521023817891" datatype="html">
         <source>Cluster</source>
@@ -664,7 +664,7 @@
       </trans-unit>
       <trans-unit id="2987268586260348582" datatype="html">
         <source>Total: </source>
-        <target state="new">Total :</target>
+        <target state="new">Total: </target>
       </trans-unit>
       <trans-unit id="3000799346062046358" datatype="html">
         <source>Suffix &apos;<x id="PH" equiv-text="suffix"/>&apos; not recognized.</source>
@@ -672,7 +672,7 @@
       </trans-unit>
       <trans-unit id="3012870639723698090" datatype="html">
         <source> Port must be greater than 0. </source>
-        <target state="new">El puerto debe ser superior a 0.</target>
+        <target state="new"> El puerto debe ser superior a 0. </target>
       </trans-unit>
       <trans-unit id="3012906865384504293" datatype="html">
         <source>Image</source>
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="3037001602563649018" datatype="html">
         <source> Name must be alphanumeric and may contain dashes. </source>
-        <target state="new">El nombre debe ser alfanumérico y puede contener guiones.</target>
+        <target state="new"> El nombre debe ser alfanumérico y puede contener guiones. </target>
       </trans-unit>
       <trans-unit id="3039940756451018621" datatype="html">
         <source>Token</source>
@@ -692,11 +692,11 @@
       </trans-unit>
       <trans-unit id="3068261068429094032" datatype="html">
         <source>Max unavailable: </source>
-        <target state="new">Máx no disponible :</target>
+        <target state="new">Máx. no disponible :</target>
       </trans-unit>
       <trans-unit id="3094294427304814088" datatype="html">
         <source>Strategy: </source>
-        <target state="new">Estrategia :</target>
+        <target state="new">Estrategia: </target>
       </trans-unit>
       <trans-unit id="3117139905742018214" datatype="html">
         <source>Close notifications panel</source>
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="3175667526023915046" datatype="html">
         <source> Label Value must not exceed 253 characters. </source>
-        <target state="new">El valor de la etiqueta no dee exceder 253 caracteres.</target>
+        <target state="new"> El valor de la etiqueta no dee exceder 253 caracteres. </target>
       </trans-unit>
       <trans-unit id="3193976279273491157" datatype="html">
         <source>Actions</source>
@@ -752,11 +752,11 @@
       </trans-unit>
       <trans-unit id="3252882636701023997" datatype="html">
         <source>Max unavailable</source>
-        <target>Máx no disponible</target>
+        <target>Máx. no disponible</target>
       </trans-unit>
       <trans-unit id="3283019513707383139" datatype="html">
         <source> Hosts <x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&quot;\uFFFD#2\uFFFD&quot;"/>open_in_new<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&quot;\uFFFD/#2\uFFFD&quot;"/></source>
-        <target state="new">Hosts <x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon class=&quot;external-link-icon kd-clickable&quot; i18n-matTooltip matTooltip=&quot;Host links are external links that will be open in a new tab.&quot;&gt;"/>open_in_new<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/></target>
+        <target state="new"> Hosts <x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&quot;\uFFFD#2\uFFFD&quot;"/>open_in_new<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&quot;\uFFFD/#2\uFFFD&quot;"/></target>
       </trans-unit>
       <trans-unit id="3294686077659093992" datatype="html">
         <source>Namespace</source>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="3323415564519831786" datatype="html">
         <source> Name is required. </source>
-        <target state="new">El nombre es requerido.</target>
+        <target state="new"> El nombre es requerido. </target>
       </trans-unit>
       <trans-unit id="3326877877555410533" datatype="html">
         <source>Started</source>
@@ -816,11 +816,11 @@
       </trans-unit>
       <trans-unit id="3370944056293075657" datatype="html">
         <source>Name must be up to <x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> characters long.</source>
-        <target state="new">El nombre debe tener hasta <x id="INTERPOLATION" equiv-text="{{namespaceMaxLength}}"/> carácteres.</target>
+        <target state="new">El nombre debe tener hasta <x id="INTERPOLATION" equiv-text="{{namespaceMaxLength}}"/> caracteres.</target>
       </trans-unit>
       <trans-unit id="3370944056293075657" datatype="html">
         <source> Name must be up to <x id="INTERPOLATION" equiv-text="&quot;\uFFFD0\uFFFD&quot;"/> characters long. </source>
-        <target state="new">El nombre debe tener hasta <x id="INTERPOLATION" equiv-text="{{secretNameMaxLength}}"/> carácteres.</target>
+        <target state="new">El nombre debe tener hasta <x id="INTERPOLATION" equiv-text="{{secretNameMaxLength}}"/> caracteres.</target>
       </trans-unit>
       <trans-unit id="3375720161310377589" datatype="html">
         <source>value</source>
@@ -836,7 +836,7 @@
       </trans-unit>
       <trans-unit id="3413133151717525161" datatype="html">
         <source>Min Replicas</source>
-        <target>Min réplicas</target>
+        <target>Mín. réplicas</target>
       </trans-unit>
       <trans-unit id="3415340061451880090" datatype="html">
         <source>Remove all notifications</source>
@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="3422667190879443306" datatype="html">
         <source>Container runtime version</source>
-        <target>Version de runtime del contenedor</target>
+        <target>Versión de runtime del contenedor</target>
       </trans-unit>
       <trans-unit id="3426643717372750272" datatype="html">
         <source>Service Port </source>
